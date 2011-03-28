@@ -1,4 +1,4 @@
-
+This package provides functions that operate on lists of the form {{date, value} ...}, where date is a date in list format and value is any Mathematica expression. This is the canonical time series format returned by Mathematica functions such as CountryData and FinancialData. The TimeSeriesXXXX functions mirror a series of standard Mathematica functions such as Map, MapThread, ListConvolve, etc.
 
 
 [Installation]
